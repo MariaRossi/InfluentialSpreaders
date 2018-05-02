@@ -1,0 +1,77 @@
+node 731 iteration 0
+0 0
+1 0
+2 0
+last timestep 2
+node 731 iteration 1
+0 0
+1 1
+2 2
+3 0
+4 0
+last timestep 4
+node 731 iteration 2
+0 0
+1 0
+2 0
+last timestep 2
+node 731 iteration 3
+0 0
+1 0
+2 0
+last timestep 2
+node 731 iteration 4
+0 0
+1 0
+2 0
+last timestep 2
+node 731 iteration 5
+0 0
+1 2
+2 4
+3 11
+4 27
+5 31
+6 50
+7 70
+8 72
+9 113
+10 98
+11 119
+12 69
+13 48
+14 35
+15 26
+16 13
+17 8
+18 5
+19 3
+20 3
+21 1
+22 1
+23 0
+24 0
+last timestep 24
+node 731 iteration 6
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 731 iteration 7
+0 0
+1 0
+2 0
+last timestep 2
+node 731 iteration 8
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 731 iteration 9
+0 0
+1 1
+2 0
+3 0
+last timestep 3

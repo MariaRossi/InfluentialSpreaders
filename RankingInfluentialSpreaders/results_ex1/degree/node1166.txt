@@ -1,0 +1,134 @@
+node 1166 iteration 0
+0 0
+1 1
+2 1
+3 1
+4 0
+5 0
+last timestep 5
+node 1166 iteration 1
+0 0
+1 0
+2 0
+last timestep 2
+node 1166 iteration 2
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1166 iteration 3
+0 0
+1 0
+2 0
+last timestep 2
+node 1166 iteration 4
+0 0
+1 0
+2 0
+last timestep 2
+node 1166 iteration 5
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1166 iteration 6
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1166 iteration 7
+0 0
+1 3
+2 4
+3 10
+4 18
+5 21
+6 25
+7 39
+8 35
+9 62
+10 71
+11 68
+12 71
+13 57
+14 51
+15 40
+16 39
+17 28
+18 21
+19 11
+20 9
+21 10
+22 6
+23 9
+24 3
+25 2
+26 5
+27 3
+28 5
+29 5
+30 5
+31 2
+32 0
+33 0
+last timestep 33
+node 1166 iteration 8
+0 0
+1 2
+2 6
+3 9
+4 10
+5 12
+6 10
+7 14
+8 13
+9 25
+10 40
+11 50
+12 56
+13 67
+14 63
+15 66
+16 60
+17 37
+18 54
+19 46
+20 47
+21 18
+22 11
+23 3
+24 2
+25 3
+26 1
+27 0
+28 0
+last timestep 28
+node 1166 iteration 9
+0 0
+1 1
+2 4
+3 8
+4 11
+5 10
+6 28
+7 53
+8 70
+9 104
+10 120
+11 116
+12 100
+13 74
+14 60
+15 42
+16 22
+17 15
+18 10
+19 2
+20 2
+21 4
+22 0
+23 0
+last timestep 23

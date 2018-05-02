@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{caption}
+\begin{document}
+ \begin{table}
+ \begin{tabular}{crrrrrr}
+\hline
+ \multicolumn{1}{c}{}&\multicolumn{5}{c}{Time Step}\\ 
+Metric & \multicolumn{1}{c}{$~2$}  & \multicolumn{1}{c}{$~~~~4$}  & \multicolumn{1}{c}{$~~~~6$} &  \multicolumn{1}{c}{$~8$}  & \multicolumn{1}{c}{$~10$} & \multicolumn{1}{c}{Final}  \\ 
+\midrule
+ \textbf{degree}& $\textbf{7.78}$ & $\textbf{24.92}$ & $\textbf{60.82}$ & $\textbf{124.92}$ & $\textbf{214.41}$ & $\textbf{23898.21}$ \\ 
+ \midrule
+ \textbf{pagerank}& $\textbf{7.99}$ & $\textbf{24.72}$ & $\textbf{59.16}$ & $\textbf{120.45}$ & $\textbf{206.48}$ & $\textbf{23338.69}$ \\ 
+ \midrule
+ \textbf{kcore}& $\textbf{5.09}$ & $\textbf{16.09}$ & $\textbf{38.43}$ & $\textbf{79.48}$ & $\textbf{139.9}$ & $\textbf{17302.69}$ \\ 
+ \midrule
+\hline
+ \end{tabular}
+ \caption{Spreading performance comparison for undirected WikiVote  dataset}
+\end{table}
+\end{document}

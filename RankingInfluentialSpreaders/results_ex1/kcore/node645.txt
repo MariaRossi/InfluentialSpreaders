@@ -1,0 +1,138 @@
+node 645 iteration 0
+0 0
+1 1
+2 2
+3 0
+4 0
+last timestep 4
+node 645 iteration 1
+0 0
+1 0
+2 0
+last timestep 2
+node 645 iteration 2
+0 0
+1 0
+2 0
+last timestep 2
+node 645 iteration 3
+0 0
+1 0
+2 0
+last timestep 2
+node 645 iteration 4
+0 0
+1 0
+2 0
+last timestep 2
+node 645 iteration 5
+0 0
+1 0
+2 0
+last timestep 2
+node 645 iteration 6
+0 0
+1 1
+2 2
+3 1
+4 5
+5 8
+6 5
+7 14
+8 4
+9 9
+10 9
+11 35
+12 66
+13 73
+14 85
+15 100
+16 97
+17 79
+18 66
+19 45
+20 36
+21 29
+22 19
+23 15
+24 7
+25 4
+26 5
+27 1
+28 2
+29 0
+30 0
+last timestep 30
+node 645 iteration 7
+0 0
+1 1
+2 3
+3 4
+4 12
+5 16
+6 20
+7 22
+8 40
+9 41
+10 68
+11 77
+12 74
+13 82
+14 76
+15 69
+16 53
+17 36
+18 34
+19 15
+20 16
+21 10
+22 7
+23 6
+24 7
+25 3
+26 3
+27 0
+28 0
+last timestep 28
+node 645 iteration 8
+0 0
+1 1
+2 3
+3 1
+4 1
+5 0
+6 0
+last timestep 6
+node 645 iteration 9
+0 0
+1 0
+2 2
+3 1
+4 1
+5 3
+6 3
+7 6
+8 17
+9 42
+10 38
+11 50
+12 74
+13 91
+14 81
+15 76
+16 71
+17 65
+18 47
+19 38
+20 19
+21 21
+22 10
+23 7
+24 2
+25 2
+26 1
+27 3
+28 4
+29 2
+30 0
+last timestep 30

@@ -1,0 +1,103 @@
+node 554 iteration 0
+0 0
+1 1
+2 3
+3 6
+4 4
+5 4
+6 4
+7 12
+8 12
+9 15
+10 17
+11 31
+12 38
+13 45
+14 47
+15 58
+16 71
+17 81
+18 65
+19 57
+20 41
+21 39
+22 28
+23 19
+24 6
+25 3
+26 0
+27 0
+last timestep 27
+node 554 iteration 1
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 554 iteration 2
+0 0
+1 1
+2 3
+3 0
+4 0
+last timestep 4
+node 554 iteration 3
+0 0
+1 4
+2 2
+3 7
+4 28
+5 54
+6 67
+7 70
+8 89
+9 82
+10 70
+11 70
+12 48
+13 32
+14 15
+15 5
+16 2
+17 3
+18 2
+19 1
+20 1
+21 0
+22 0
+last timestep 22
+node 554 iteration 4
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 554 iteration 5
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 554 iteration 6
+0 0
+1 0
+2 0
+last timestep 2
+node 554 iteration 7
+0 0
+1 0
+2 2
+3 1
+4 1
+5 0
+last timestep 5
+node 554 iteration 8
+0 0
+1 0
+2 0
+last timestep 2
+node 554 iteration 9
+0 0
+1 0
+2 0
+last timestep 2

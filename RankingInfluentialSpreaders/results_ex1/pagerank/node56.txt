@@ -1,0 +1,134 @@
+node 56 iteration 0
+0 0
+1 6
+2 0
+3 0
+last timestep 3
+node 56 iteration 1
+0 0
+1 0
+2 0
+last timestep 2
+node 56 iteration 2
+0 0
+1 1
+2 0
+3 1
+4 1
+5 2
+6 2
+7 2
+8 4
+9 6
+10 11
+11 10
+12 12
+13 16
+14 31
+15 37
+16 60
+17 77
+18 91
+19 85
+20 96
+21 81
+22 66
+23 48
+24 35
+25 26
+26 17
+27 10
+28 6
+29 0
+last timestep 29
+node 56 iteration 3
+0 0
+1 1
+2 1
+3 0
+4 0
+last timestep 4
+node 56 iteration 4
+0 0
+1 1
+2 4
+3 13
+4 31
+5 34
+6 50
+7 61
+8 61
+9 70
+10 81
+11 78
+12 93
+13 75
+14 52
+15 23
+16 18
+17 15
+18 6
+19 5
+20 3
+21 3
+22 6
+23 2
+24 1
+25 0
+26 0
+last timestep 26
+node 56 iteration 5
+0 0
+1 7
+2 4
+3 3
+4 3
+5 4
+6 5
+7 8
+8 24
+9 34
+10 54
+11 91
+12 104
+13 99
+14 109
+15 93
+16 79
+17 50
+18 33
+19 21
+20 15
+21 10
+22 3
+23 5
+24 0
+25 0
+last timestep 25
+node 56 iteration 6
+0 0
+1 1
+2 2
+3 0
+4 0
+last timestep 4
+node 56 iteration 7
+0 0
+1 5
+2 2
+3 4
+4 0
+5 0
+last timestep 5
+node 56 iteration 8
+0 0
+1 0
+2 2
+3 0
+last timestep 3
+node 56 iteration 9
+0 0
+1 0
+2 1
+3 0
+last timestep 3

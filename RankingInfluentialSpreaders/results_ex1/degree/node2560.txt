@@ -1,0 +1,134 @@
+node 2560 iteration 0
+0 0
+1 3
+2 5
+3 8
+4 12
+5 25
+6 34
+7 65
+8 88
+9 69
+10 85
+11 78
+12 68
+13 66
+14 48
+15 32
+16 22
+17 17
+18 16
+19 4
+20 2
+21 1
+22 0
+23 0
+last timestep 23
+node 2560 iteration 1
+0 0
+1 0
+2 1
+3 0
+last timestep 3
+node 2560 iteration 2
+0 0
+1 0
+2 0
+last timestep 2
+node 2560 iteration 3
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 2560 iteration 4
+0 0
+1 0
+2 0
+last timestep 2
+node 2560 iteration 5
+0 0
+1 3
+2 6
+3 13
+4 11
+5 17
+6 31
+7 31
+8 52
+9 46
+10 52
+11 56
+12 71
+13 60
+14 47
+15 52
+16 47
+17 47
+18 37
+19 18
+20 15
+21 12
+22 6
+23 3
+24 2
+25 1
+26 1
+27 0
+28 0
+last timestep 28
+node 2560 iteration 6
+0 0
+1 0
+2 0
+last timestep 2
+node 2560 iteration 7
+0 0
+1 2
+2 2
+3 1
+4 0
+5 1
+6 0
+last timestep 6
+node 2560 iteration 8
+0 0
+1 4
+2 4
+3 12
+4 12
+5 15
+6 24
+7 39
+8 39
+9 59
+10 66
+11 76
+12 73
+13 75
+14 65
+15 57
+16 41
+17 24
+18 16
+19 16
+20 11
+21 10
+22 3
+23 4
+24 7
+25 5
+26 8
+27 5
+28 4
+29 1
+30 0
+31 0
+last timestep 31
+node 2560 iteration 9
+0 0
+1 1
+2 1
+3 0
+4 0
+last timestep 4

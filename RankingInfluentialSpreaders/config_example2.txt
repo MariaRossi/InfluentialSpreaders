@@ -1,0 +1,10 @@
+dataset: ./undirected_WikiVote.txt
+labels: degree,pagerank,kcore
+selection_of_top_mode: 100
+user_input_file: None
+mode: 1
+type_output: 1
+beta: 0.009
+gamma: 0.8
+n_iterations: 10
+output_dir: ./results_ex2

@@ -1,0 +1,110 @@
+node 1218 iteration 0
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1218 iteration 1
+0 0
+1 2
+2 1
+3 0
+4 0
+last timestep 4
+node 1218 iteration 2
+0 0
+1 0
+2 0
+last timestep 2
+node 1218 iteration 3
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1218 iteration 4
+0 0
+1 0
+2 0
+last timestep 2
+node 1218 iteration 5
+0 0
+1 0
+2 0
+last timestep 2
+node 1218 iteration 6
+0 0
+1 1
+2 2
+3 3
+4 7
+5 7
+6 9
+7 14
+8 15
+9 24
+10 31
+11 27
+12 41
+13 42
+14 64
+15 49
+16 50
+17 48
+18 43
+19 41
+20 33
+21 24
+22 26
+23 21
+24 15
+25 7
+26 7
+27 5
+28 4
+29 3
+30 0
+31 0
+last timestep 31
+node 1218 iteration 7
+0 0
+1 0
+2 2
+3 1
+4 0
+last timestep 4
+node 1218 iteration 8
+0 0
+1 2
+2 5
+3 5
+4 2
+5 4
+6 11
+7 30
+8 41
+9 59
+10 81
+11 98
+12 101
+13 90
+14 66
+15 51
+16 46
+17 27
+18 25
+19 16
+20 5
+21 2
+22 0
+23 0
+last timestep 23
+node 1218 iteration 9
+0 0
+1 3
+2 1
+3 1
+4 2
+5 0
+6 0
+last timestep 6

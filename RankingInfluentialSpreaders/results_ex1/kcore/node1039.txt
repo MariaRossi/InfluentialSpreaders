@@ -1,0 +1,132 @@
+node 1039 iteration 0
+0 0
+1 2
+2 6
+3 8
+4 9
+5 19
+6 31
+7 32
+8 58
+9 81
+10 80
+11 108
+12 90
+13 78
+14 64
+15 49
+16 40
+17 23
+18 10
+19 5
+20 8
+21 5
+22 1
+23 0
+24 0
+last timestep 24
+node 1039 iteration 1
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 1039 iteration 2
+0 0
+1 2
+2 2
+3 1
+4 1
+5 0
+6 0
+last timestep 6
+node 1039 iteration 3
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 1039 iteration 4
+0 0
+1 1
+2 2
+3 2
+4 0
+5 1
+6 0
+last timestep 6
+node 1039 iteration 5
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 1039 iteration 6
+0 0
+1 1
+2 0
+3 2
+4 1
+5 6
+6 9
+7 13
+8 19
+9 22
+10 18
+11 26
+12 38
+13 50
+14 69
+15 86
+16 98
+17 97
+18 76
+19 70
+20 49
+21 36
+22 20
+23 12
+24 7
+25 8
+26 1
+27 1
+28 2
+29 0
+last timestep 29
+node 1039 iteration 7
+0 0
+1 2
+2 9
+3 22
+4 36
+5 57
+6 75
+7 86
+8 123
+9 97
+10 85
+11 57
+12 41
+13 22
+14 18
+15 11
+16 9
+17 6
+18 3
+19 5
+20 4
+21 2
+22 1
+23 0
+24 0
+last timestep 24
+node 1039 iteration 8
+0 0
+1 0
+2 0
+last timestep 2
+node 1039 iteration 9
+0 0
+1 0
+2 0
+last timestep 2

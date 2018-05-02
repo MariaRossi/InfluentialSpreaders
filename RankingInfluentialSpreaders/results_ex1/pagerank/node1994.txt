@@ -1,0 +1,120 @@
+node 1994 iteration 0
+0 0
+1 1
+2 1
+3 2
+4 2
+5 0
+6 0
+last timestep 6
+node 1994 iteration 1
+0 0
+1 0
+2 0
+last timestep 2
+node 1994 iteration 2
+0 0
+1 0
+2 0
+last timestep 2
+node 1994 iteration 3
+0 0
+1 0
+2 0
+last timestep 2
+node 1994 iteration 4
+0 0
+1 1
+2 1
+3 1
+4 0
+5 0
+last timestep 5
+node 1994 iteration 5
+0 0
+1 2
+2 2
+3 6
+4 7
+5 14
+6 8
+7 8
+8 8
+9 16
+10 19
+11 36
+12 50
+13 74
+14 67
+15 79
+16 71
+17 70
+18 51
+19 36
+20 29
+21 15
+22 9
+23 12
+24 9
+25 7
+26 5
+27 5
+28 4
+29 1
+30 0
+31 0
+last timestep 31
+node 1994 iteration 6
+0 0
+1 3
+2 3
+3 6
+4 7
+5 9
+6 9
+7 30
+8 44
+9 55
+10 67
+11 71
+12 84
+13 80
+14 62
+15 50
+16 46
+17 29
+18 33
+19 30
+20 17
+21 14
+22 8
+23 5
+24 1
+25 0
+26 1
+27 1
+28 2
+29 1
+30 1
+31 0
+last timestep 31
+node 1994 iteration 7
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 1994 iteration 8
+0 0
+1 0
+2 0
+last timestep 2
+node 1994 iteration 9
+0 0
+1 3
+2 1
+3 2
+4 1
+5 0
+6 0
+last timestep 6

@@ -1,0 +1,134 @@
+node 812 iteration 0
+0 0
+1 2
+2 2
+3 2
+4 4
+5 6
+6 12
+7 29
+8 23
+9 34
+10 36
+11 27
+12 40
+13 55
+14 60
+15 64
+16 87
+17 86
+18 61
+19 47
+20 41
+21 25
+22 25
+23 16
+24 11
+25 10
+26 9
+27 9
+28 4
+29 1
+30 0
+31 0
+last timestep 31
+node 812 iteration 1
+0 0
+1 0
+2 0
+last timestep 2
+node 812 iteration 2
+0 0
+1 1
+2 1
+3 4
+4 6
+5 4
+6 6
+7 8
+8 26
+9 35
+10 56
+11 68
+12 73
+13 72
+14 72
+15 91
+16 76
+17 60
+18 45
+19 28
+20 24
+21 15
+22 6
+23 7
+24 1
+25 0
+26 0
+last timestep 26
+node 812 iteration 3
+0 0
+1 1
+2 0
+3 1
+4 0
+last timestep 4
+node 812 iteration 4
+0 0
+1 2
+2 0
+3 0
+last timestep 3
+node 812 iteration 5
+0 0
+1 0
+2 0
+last timestep 2
+node 812 iteration 6
+0 0
+1 1
+2 0
+3 0
+last timestep 3
+node 812 iteration 7
+0 0
+1 2
+2 3
+3 9
+4 14
+5 30
+6 50
+7 41
+8 62
+9 81
+10 71
+11 87
+12 70
+13 74
+14 43
+15 46
+16 25
+17 28
+18 16
+19 13
+20 16
+21 9
+22 15
+23 7
+24 5
+25 3
+26 0
+27 0
+last timestep 27
+node 812 iteration 8
+0 0
+1 2
+2 1
+3 0
+4 0
+last timestep 4
+node 812 iteration 9
+0 0
+1 0
+2 0
+last timestep 2
